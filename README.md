@@ -12,6 +12,7 @@ My name is Artyom and I'm frontend-developer. I really like engage in website de
 * ⌨ JS 
 * 🏆 TS
 * ⚛ React
+* 🧶 Node.js
 * 🎟 Fetch API
 * 🎫 WebSocket
 * 🧲 Git
